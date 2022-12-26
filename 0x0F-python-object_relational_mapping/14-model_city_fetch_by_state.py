@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Created by kehinde
+Created by olumide
 """
 from model_state import Base, State
 from model_city import City
